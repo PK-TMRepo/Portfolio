@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<B>Portfolio:</B></p>
-[Raportowanie 1](https://docs.google.com/document/d/1VzCpg-yIu4FS5X5NbDF8NWUSmQSRU77_7Y9X-IME30w/edit?usp=sharing)
+<B>Certificates:</B></p>
+[ISTQB CTFL 4.0](https://drive.google.com/file/d/1n_HSLhDRCbS8VIE32vCAuKzqv4Wd9Cx0/view?usp=sharing)
 
 
 <!--
