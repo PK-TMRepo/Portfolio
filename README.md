@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ISTQB CTFL 4.0](https://drive.google.com/file/d/1n_HSLhDRCbS8VIE32vCAuKzqv4Wd9Cx0/view?usp=sharing)
 
 <B><li>TESTUJ.PL Course. Exploratory Testing Reports:</li></B><p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 1 ](https://drive.google.com/file/d/1O2t4tomC23rsCDSG_dHrom4pRERyyDnc/view?usp=sharing)
 
 
 
