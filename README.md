@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ISTQB CTFL 4.0](https://drive.google.com/file/d/1n_HSLhDRCbS8VIE32vCAuKzqv4Wd9Cx0/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TestArmy Group Intership](https://drive.google.com/file/d/19qHBYnaZ5cq5vEHt-teSxQBqxljB-jlA/view?usp=sharing)
 
-<B><li>TESTUJ.PL Course - exploratory testing reports:</li></B><p>
+<B><li>TESTUJ.PL Course - exploratory testing reports:</li></B>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 1](https://drive.google.com/file/d/1O2t4tomC23rsCDSG_dHrom4pRERyyDnc/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 2](https://drive.google.com/file/d/1KQIFWoE11pVSLggyWJuin2pe2a_kiBiL/view?usp=sharing)<p>
@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 5](https://drive.google.com/file/d/1arYYcr9vBm6RBjdSf0Wx519cnllXzO6I/view?usp=sharing)<p>
 
 
-[https://drive.google.com/file/d/19qHBYnaZ5cq5vEHt-teSxQBqxljB-jlA/view?usp=sharing]
+
 
 <!--
 **ppm115/ppm115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
