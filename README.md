@@ -1,11 +1,5 @@
 ## Manual Testing Portfolio
 
-<B><li>Certificates:</li></B><p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ISTQB CTFL 4.0](https://drive.google.com/file/d/1n_HSLhDRCbS8VIE32vCAuKzqv4Wd9Cx0/view?usp=sharing)<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TestArmy Group Intership](https://drive.google.com/file/d/19qHBYnaZ5cq5vEHt-teSxQBqxljB-jlA/view?usp=sharing)<p>
-[ISTQB CTFL Preparatory course](https://drive.google.com/file/d/1FMVNHSGPWIFmZiyCbJYH-4RExLxYI5zQ/view?usp=sharing)<p>
-
 <B><li>TESTUJ.PL Course - exploratory testing reports:</li></B>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 1](https://drive.google.com/file/d/1O2t4tomC23rsCDSG_dHrom4pRERyyDnc/view?usp=sharing)<p>
@@ -13,6 +7,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 3](https://drive.google.com/file/d/17FAQ8E3XlyvjsuRBw3hpDYme54CuHAV1/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 4](https://drive.google.com/file/d/1L6d8bvSKFrjbIP0mQFaIeA8OM9XuOgX-/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 5](https://drive.google.com/file/d/1arYYcr9vBm6RBjdSf0Wx519cnllXzO6I/view?usp=sharing)<p>
+
+## Education
+<B><li>Certificates:</li></B><p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ISTQB CTFL 4.0](https://drive.google.com/file/d/1n_HSLhDRCbS8VIE32vCAuKzqv4Wd9Cx0/view?usp=sharing)<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TestArmy Group Intership](https://drive.google.com/file/d/19qHBYnaZ5cq5vEHt-teSxQBqxljB-jlA/view?usp=sharing)<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ISTQB CTFL Preparatory course](https://drive.google.com/file/d/1FMVNHSGPWIFmZiyCbJYH-4RExLxYI5zQ/view?usp=sharing)<p>
+
 
 
 
