@@ -3,8 +3,10 @@
 <B><li>Certificates:</li></B><p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ISTQB CTFL 4.0](https://drive.google.com/file/d/1n_HSLhDRCbS8VIE32vCAuKzqv4Wd9Cx0/view?usp=sharing)<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TestArmy Group Intership](https://drive.google.com/file/d/19qHBYnaZ5cq5vEHt-teSxQBqxljB-jlA/view?usp=sharing)<p>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TestArmy Group Intership](https://drive.google.com/file/d/19qHBYnaZ5cq5vEHt-teSxQBqxljB-jlA/view?usp=sharing)
+<p></p>
+<p></p>
+<p></p>
 <B><li>TESTUJ.PL Course - exploratory testing reports:</li></B>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 1](https://drive.google.com/file/d/1O2t4tomC23rsCDSG_dHrom4pRERyyDnc/view?usp=sharing)<p>
