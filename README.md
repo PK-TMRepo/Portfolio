@@ -6,6 +6,7 @@
 
 
 <B><li>TESTUJ.PL Course - exploratory testing reports:</li></B><p>
+<p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 1](https://drive.google.com/file/d/1O2t4tomC23rsCDSG_dHrom4pRERyyDnc/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 2](https://drive.google.com/file/d/1KQIFWoE11pVSLggyWJuin2pe2a_kiBiL/view?usp=sharing)<p>
