@@ -3,6 +3,10 @@
 <B><li>Certificates:</li></B><p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ISTQB CTFL 4.0](https://drive.google.com/file/d/1n_HSLhDRCbS8VIE32vCAuKzqv4Wd9Cx0/view?usp=sharing)
 
+<B><li>TESTUJ.PL Course. Exploratory Testing Reports:</li></B><p>
+
+
+
 
 <!--
 **ppm115/ppm115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
