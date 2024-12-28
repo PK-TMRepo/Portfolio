@@ -1,6 +1,6 @@
 ## Manual Testing Portfolio
 
-<B>Certificates:</B><p>
+<B><li>Certificates:</li></B><p>
 [ISTQB CTFL 4.0](https://drive.google.com/file/d/1n_HSLhDRCbS8VIE32vCAuKzqv4Wd9Cx0/view?usp=sharing)
 
 
