@@ -2,7 +2,7 @@
 
 <B><li>Bugs Reports based on AI platforms for architectural designers:</li></B>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lookx AI issues]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LookX AI issues]
 
 
 <B><li>Bugs Reports based on software for architectural designers:</li></B>
