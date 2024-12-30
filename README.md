@@ -1,5 +1,8 @@
 ## Manual Testing Portfolio
 
+
+<B><li>Bugs Reports based on software for architectural designers:</li></B>
+
 <B><li>TestArmy Group Intership - exploratory testing reports:</li></B>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 1](https://drive.google.com/file/d/1O2t4tomC23rsCDSG_dHrom4pRERyyDnc/view?usp=sharing)<p>
