@@ -2,10 +2,13 @@
 
 <B><li>Bugs Reports based on AI platforms for architectural designers:</li></B>
 
+
+
 <B><li>Bugs Reports based on software for architectural designers:</li></B>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Revit 2025 / pyRevit issue]
+
 
 <B><li>TestArmy Group Intership - exploratory testing reports:</li></B>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 1](https://drive.google.com/file/d/1O2t4tomC23rsCDSG_dHrom4pRERyyDnc/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 2](https://drive.google.com/file/d/1KQIFWoE11pVSLggyWJuin2pe2a_kiBiL/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 3](https://drive.google.com/file/d/17FAQ8E3XlyvjsuRBw3hpDYme54CuHAV1/view?usp=sharing)<p>
@@ -14,7 +17,6 @@
 
 ## Education
 <B><li>Certificates:</li></B><p>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ISTQB CTFL 4.0](https://drive.google.com/file/d/1n_HSLhDRCbS8VIE32vCAuKzqv4Wd9Cx0/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TestArmy Group Intership](https://drive.google.com/file/d/19qHBYnaZ5cq5vEHt-teSxQBqxljB-jlA/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ISTQB CTFL Preparatory course](https://drive.google.com/file/d/1FMVNHSGPWIFmZiyCbJYH-4RExLxYI5zQ/view?usp=sharing)<p>
