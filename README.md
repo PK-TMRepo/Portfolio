@@ -1,4 +1,4 @@
-📚 ## Manual Testing Portfolio
+ ## 📚Manual Testing Portfolio
 
 <B><li>Bugs Reports based on AI platforms for architectural designers:</li></B>
 
@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 4](https://drive.google.com/file/d/1L6d8bvSKFrjbIP0mQFaIeA8OM9XuOgX-/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 5](https://drive.google.com/file/d/1arYYcr9vBm6RBjdSf0Wx519cnllXzO6I/view?usp=sharing)<p>
 
-📖 ## Education
+ ## 📖Education
 
 <B><li>Certificates:</li></B><p>
 
