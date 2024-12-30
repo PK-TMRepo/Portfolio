@@ -21,6 +21,10 @@ Hi! I’m Piotrek, a licensed architect actively working in building design and 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 3](https://drive.google.com/file/d/17FAQ8E3XlyvjsuRBw3hpDYme54CuHAV1/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 4](https://drive.google.com/file/d/1arYYcr9vBm6RBjdSf0Wx519cnllXzO6I/view?usp=sharing)<p>
 
+<B><li>TestArmy Group Intership - skleptest.pl:</li></B>
+
+
+
  ## 📖 Education
 
 <B><li>Certificates:</li></B><p>
