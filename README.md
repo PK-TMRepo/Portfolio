@@ -2,6 +2,9 @@
 
 <B><li>Bugs Reports based on AI platforms for architectural designers:</li></B>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Lookx AI issues]
+
+
 <B><li>Bugs Reports based on software for architectural designers:</li></B>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PyRevit in Revit 2025 issue](https://docs.google.com/spreadsheets/d/1krkM7RvJNyPWW8DrUwpzXfUES2kcXqnl/edit?usp=sharing&ouid=109429257397950595706&rtpof=true&sd=true)<p>
