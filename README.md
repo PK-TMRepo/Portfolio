@@ -17,11 +17,9 @@ Hi! I’m Piotrek, a licensed architect actively working in building design and 
 <B><li>TestArmy Group Intership - exploratory testing reports:</li></B>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 1](https://drive.google.com/file/d/1O2t4tomC23rsCDSG_dHrom4pRERyyDnc/view?usp=sharing)<p>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 2](https://drive.google.com/file/d/1KQIFWoE11pVSLggyWJuin2pe2a_kiBiL/view?usp=sharing)<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 3](https://drive.google.com/file/d/17FAQ8E3XlyvjsuRBw3hpDYme54CuHAV1/view?usp=sharing)<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 4](https://drive.google.com/file/d/1L6d8bvSKFrjbIP0mQFaIeA8OM9XuOgX-/view?usp=sharing)<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 5](https://drive.google.com/file/d/1arYYcr9vBm6RBjdSf0Wx519cnllXzO6I/view?usp=sharing)<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Session 4](https://drive.google.com/file/d/1arYYcr9vBm6RBjdSf0Wx519cnllXzO6I/view?usp=sharing)<p>
 
  ## 📖 Education
 
