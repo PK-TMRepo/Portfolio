@@ -3,7 +3,7 @@
 <B><li>Bugs Reports based on AI platforms for architectural designers:</li></B>
 
 <B><li>Bugs Reports based on software for architectural designers:</li></B>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pyRevit in Revit 2025 issue]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PyRevit in Revit 2025 issue]
 
 
 <B><li>TestArmy Group Intership - exploratory testing reports:</li></B>
