@@ -1,5 +1,6 @@
 ## Manual Testing Portfolio
 
+<B><li>Bugs Reports based on AI platforms for architectural designers:</li></B>
 
 <B><li>Bugs Reports based on software for architectural designers:</li></B>
 
