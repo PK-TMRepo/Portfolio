@@ -2,8 +2,6 @@
 
 <B><li>Bugs Reports based on AI platforms for architectural designers:</li></B>
 
-
-
 <B><li>Bugs Reports based on software for architectural designers:</li></B>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Revit 2025 / pyRevit issue]
 
