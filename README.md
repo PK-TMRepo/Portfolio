@@ -1,5 +1,5 @@
 ## 👋 Welcome to My GitHub!
-Hi! I'm Piotrek, a licensed architect specializing in building design and BIM, and a certified manual tester. I’m passionate about testing applications, exploring AI solutions, and creating AI tools for the AEC industry. Let’s collaborate or share ideas! 🚀
+Hi! I'm Piotrek, a licensed architect specializing in building design and BIM, and a certified manual tester. I’m interested in testing applications, exploring AI solutions, and creating AI tools for the AEC industry. Let’s collaborate or share ideas! 🚀
  
  ## 📚 Manual Testing Portfolio
 
