@@ -24,7 +24,7 @@ Hi! I’m Piotrek, a licensed architect actively working in building design and 
 <B><li>TestArmy Group Intership - skleptest.pl:</li></B>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bug Reports #1](https://docs.google.com/spreadsheets/d/1FTeQSsLeHdLbZZuF0yBYaqaZNUIh_-LR/edit?usp=sharing&ouid=109429257397950595706&rtpof=true&sd=true)<p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Bug Reports #2](https://docs.google.com/spreadsheets/d/1j1gdIqjeuTtNs4AqxnEOlMB2FGZA4RfD/edit?usp=sharing&ouid=109429257397950595706&rtpof=true&sd=true)<p>
 
  ## 📖 Education
 
